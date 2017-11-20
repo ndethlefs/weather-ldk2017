@@ -1,0 +1,770 @@
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+21 6 21 --=== New snow accumulation of around an inch possible .
+25 26 30 --=== Snow level 5800 feet lowering to 4300 feet after midnight .
+21 6 21 Chc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== Snow level 2200 feet rising to 3100 feet in the afternoon .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 3 to 5 inches possible .
+21 6 21 Def===Snow .
+21 6 21 Def=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 4 to 8 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Snow level 4300 feet lowering to 3400 feet .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 --=== Snow level 3300 feet rising to 3800 feet .
+21 6 21 --=== New snow accumulation of less than a half inch possible .
+25 26 30 Lkly=== Snow level 5400 feet lowering to 3600 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def=== Snow level 6400 feet lowering to 5100 feet .
+21 17 30 Def=== New snow accumulation of less than a half inch possible .
+22 6 9 Def===Snow ,
+22 6 9 Def=== mainly before 11am .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== New snow accumulation of less than a half inch possible .
+21 17 30 --=== Snow level 4600 feet rising to 5800 feet .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of around an inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5200 feet .
+21 6 21 Lkly=== Snow level 4500 feet .
+21 6 21 Lkly=== Little or no snow accumulation expected .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Lkly===Snow likely .
+21 17 30 Lkly=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+25 26 30 Lkly=== Snow level 5700 feet lowering to 3800 feet after midnight .
+21 17 30 --=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+25 26 30 Lkly=== Snow level 5800 feet lowering to 3900 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of around an inch possible .
+21 6 21 --=== Snow level 2200 feet rising to 3000 feet in the afternoon .
+21 6 21 --=== Little or no snow accumulation expected .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+21 6 21 --=== New snow accumulation of around an inch possible .
+25 26 30 --=== Snow level 5800 feet lowering to 4300 feet after midnight .
+21 6 21 Chc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== Snow level 2200 feet rising to 3100 feet in the afternoon .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 3 to 5 inches possible .
+21 6 21 Def===Snow .
+21 6 21 Def=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 4 to 8 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Snow level 4300 feet lowering to 3400 feet .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 --=== Snow level 3300 feet rising to 3800 feet .
+21 6 21 --=== New snow accumulation of less than a half inch possible .
+25 26 30 Lkly=== Snow level 5400 feet lowering to 3600 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def=== Snow level 6400 feet lowering to 5100 feet .
+21 17 30 Def=== New snow accumulation of less than a half inch possible .
+22 6 9 Def===Snow ,
+22 6 9 Def=== mainly before 11am .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== New snow accumulation of less than a half inch possible .
+21 17 30 --=== Snow level 4600 feet rising to 5800 feet .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of around an inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5200 feet .
+21 6 21 Lkly=== Snow level 4500 feet .
+21 6 21 Lkly=== Little or no snow accumulation expected .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Lkly===Snow likely .
+21 17 30 Lkly=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+25 26 30 Lkly=== Snow level 5700 feet lowering to 3800 feet after midnight .
+21 17 30 --=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+25 26 30 Lkly=== Snow level 5800 feet lowering to 3900 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of around an inch possible .
+21 6 21 --=== Snow level 2200 feet rising to 3000 feet in the afternoon .
+21 6 21 --=== Little or no snow accumulation expected .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+21 6 21 --=== New snow accumulation of around an inch possible .
+25 26 30 --=== Snow level 5800 feet lowering to 4300 feet after midnight .
+21 6 21 Chc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== Snow level 2200 feet rising to 3100 feet in the afternoon .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 3 to 5 inches possible .
+21 6 21 Def===Snow .
+21 6 21 Def=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 4 to 8 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Snow level 4300 feet lowering to 3400 feet .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 --=== Snow level 3300 feet rising to 3800 feet .
+21 6 21 --=== New snow accumulation of less than a half inch possible .
+25 26 30 Lkly=== Snow level 5400 feet lowering to 3600 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def=== Snow level 6400 feet lowering to 5100 feet .
+21 17 30 Def=== New snow accumulation of less than a half inch possible .
+22 6 9 Def===Snow ,
+22 6 9 Def=== mainly before 11am .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== New snow accumulation of less than a half inch possible .
+21 17 30 --=== Snow level 4600 feet rising to 5800 feet .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of around an inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5200 feet .
+21 6 21 Lkly=== Snow level 4500 feet .
+21 6 21 Lkly=== Little or no snow accumulation expected .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Lkly===Snow likely .
+21 17 30 Lkly=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+25 26 30 Lkly=== Snow level 5700 feet lowering to 3800 feet after midnight .
+21 17 30 --=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+25 26 30 Lkly=== Snow level 5800 feet lowering to 3900 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of around an inch possible .
+21 6 21 --=== Snow level 2200 feet rising to 3000 feet in the afternoon .
+21 6 21 --=== Little or no snow accumulation expected .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+21 6 21 --=== New snow accumulation of around an inch possible .
+25 26 30 --=== Snow level 5800 feet lowering to 4300 feet after midnight .
+21 6 21 Chc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== Snow level 2200 feet rising to 3100 feet in the afternoon .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 3 to 5 inches possible .
+21 6 21 Def===Snow .
+21 6 21 Def=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 4 to 8 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Snow level 4300 feet lowering to 3400 feet .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 --=== Snow level 3300 feet rising to 3800 feet .
+21 6 21 --=== New snow accumulation of less than a half inch possible .
+25 26 30 Lkly=== Snow level 5400 feet lowering to 3600 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def=== Snow level 6400 feet lowering to 5100 feet .
+21 17 30 Def=== New snow accumulation of less than a half inch possible .
+22 6 9 Def===Snow ,
+22 6 9 Def=== mainly before 11am .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== New snow accumulation of less than a half inch possible .
+21 17 30 --=== Snow level 4600 feet rising to 5800 feet .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of around an inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5200 feet .
+21 6 21 Lkly=== Snow level 4500 feet .
+21 6 21 Lkly=== Little or no snow accumulation expected .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Lkly===Snow likely .
+21 17 30 Lkly=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+25 26 30 Lkly=== Snow level 5700 feet lowering to 3800 feet after midnight .
+21 17 30 --=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+25 26 30 Lkly=== Snow level 5800 feet lowering to 3900 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of around an inch possible .
+21 6 21 --=== Snow level 2200 feet rising to 3000 feet in the afternoon .
+21 6 21 --=== Little or no snow accumulation expected .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+21 6 21 --=== New snow accumulation of around an inch possible .
+25 26 30 --=== Snow level 5800 feet lowering to 4300 feet after midnight .
+21 6 21 Chc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== Snow level 2200 feet rising to 3100 feet in the afternoon .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 3 to 5 inches possible .
+21 6 21 Def===Snow .
+21 6 21 Def=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 4 to 8 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Snow level 4300 feet lowering to 3400 feet .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 --=== Snow level 3300 feet rising to 3800 feet .
+21 6 21 --=== New snow accumulation of less than a half inch possible .
+25 26 30 Lkly=== Snow level 5400 feet lowering to 3600 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def=== Snow level 6400 feet lowering to 5100 feet .
+21 17 30 Def=== New snow accumulation of less than a half inch possible .
+22 6 9 Def===Snow ,
+22 6 9 Def=== mainly before 11am .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== New snow accumulation of less than a half inch possible .
+21 17 30 --=== Snow level 4600 feet rising to 5800 feet .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of around an inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5200 feet .
+21 6 21 Lkly=== Snow level 4500 feet .
+21 6 21 Lkly=== Little or no snow accumulation expected .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Lkly===Snow likely .
+21 17 30 Lkly=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+25 26 30 Lkly=== Snow level 5700 feet lowering to 3800 feet after midnight .
+21 17 30 --=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+25 26 30 Lkly=== Snow level 5800 feet lowering to 3900 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of around an inch possible .
+21 6 21 --=== Snow level 2200 feet rising to 3000 feet in the afternoon .
+21 6 21 --=== Little or no snow accumulation expected .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+21 6 21 --=== New snow accumulation of around an inch possible .
+25 26 30 --=== Snow level 5800 feet lowering to 4300 feet after midnight .
+21 6 21 Chc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== Snow level 2200 feet rising to 3100 feet in the afternoon .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 3 to 5 inches possible .
+21 6 21 Def===Snow .
+21 6 21 Def=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 4 to 8 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Snow level 4300 feet lowering to 3400 feet .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 --=== Snow level 3300 feet rising to 3800 feet .
+21 6 21 --=== New snow accumulation of less than a half inch possible .
+25 26 30 Lkly=== Snow level 5400 feet lowering to 3600 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def=== Snow level 6400 feet lowering to 5100 feet .
+21 17 30 Def=== New snow accumulation of less than a half inch possible .
+22 6 9 Def===Snow ,
+22 6 9 Def=== mainly before 11am .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== New snow accumulation of less than a half inch possible .
+21 17 30 --=== Snow level 4600 feet rising to 5800 feet .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of around an inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5200 feet .
+21 6 21 Lkly=== Snow level 4500 feet .
+21 6 21 Lkly=== Little or no snow accumulation expected .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Lkly===Snow likely .
+21 17 30 Lkly=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+25 26 30 Lkly=== Snow level 5700 feet lowering to 3800 feet after midnight .
+21 17 30 --=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+25 26 30 Lkly=== Snow level 5800 feet lowering to 3900 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of around an inch possible .
+21 6 21 --=== Snow level 2200 feet rising to 3000 feet in the afternoon .
+21 6 21 --=== Little or no snow accumulation expected .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+21 6 21 --=== New snow accumulation of around an inch possible .
+25 26 30 --=== Snow level 5800 feet lowering to 4300 feet after midnight .
+21 6 21 Chc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== Snow level 2200 feet rising to 3100 feet in the afternoon .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 3 to 5 inches possible .
+21 6 21 Def===Snow .
+21 6 21 Def=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 4 to 8 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Snow level 4300 feet lowering to 3400 feet .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 --=== Snow level 3300 feet rising to 3800 feet .
+21 6 21 --=== New snow accumulation of less than a half inch possible .
+25 26 30 Lkly=== Snow level 5400 feet lowering to 3600 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def=== Snow level 6400 feet lowering to 5100 feet .
+21 17 30 Def=== New snow accumulation of less than a half inch possible .
+22 6 9 Def===Snow ,
+22 6 9 Def=== mainly before 11am .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== New snow accumulation of less than a half inch possible .
+21 17 30 --=== Snow level 4600 feet rising to 5800 feet .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of around an inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5200 feet .
+21 6 21 Lkly=== Snow level 4500 feet .
+21 6 21 Lkly=== Little or no snow accumulation expected .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Lkly===Snow likely .
+21 17 30 Lkly=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+25 26 30 Lkly=== Snow level 5700 feet lowering to 3800 feet after midnight .
+21 17 30 --=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+25 26 30 Lkly=== Snow level 5800 feet lowering to 3900 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of around an inch possible .
+21 6 21 --=== Snow level 2200 feet rising to 3000 feet in the afternoon .
+21 6 21 --=== Little or no snow accumulation expected .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+21 6 21 --=== New snow accumulation of around an inch possible .
+25 26 30 --=== Snow level 5800 feet lowering to 4300 feet after midnight .
+21 6 21 Chc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== Snow level 2200 feet rising to 3100 feet in the afternoon .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 3 to 5 inches possible .
+21 6 21 Def===Snow .
+21 6 21 Def=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 4 to 8 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Snow level 4300 feet lowering to 3400 feet .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 --=== Snow level 3300 feet rising to 3800 feet .
+21 6 21 --=== New snow accumulation of less than a half inch possible .
+25 26 30 Lkly=== Snow level 5400 feet lowering to 3600 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def=== Snow level 6400 feet lowering to 5100 feet .
+21 17 30 Def=== New snow accumulation of less than a half inch possible .
+22 6 9 Def===Snow ,
+22 6 9 Def=== mainly before 11am .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== New snow accumulation of less than a half inch possible .
+21 17 30 --=== Snow level 4600 feet rising to 5800 feet .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of around an inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5200 feet .
+21 6 21 Lkly=== Snow level 4500 feet .
+21 6 21 Lkly=== Little or no snow accumulation expected .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Lkly===Snow likely .
+21 17 30 Lkly=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+25 26 30 Lkly=== Snow level 5700 feet lowering to 3800 feet after midnight .
+21 17 30 --=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+25 26 30 Lkly=== Snow level 5800 feet lowering to 3900 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of around an inch possible .
+21 6 21 --=== Snow level 2200 feet rising to 3000 feet in the afternoon .
+21 6 21 --=== Little or no snow accumulation expected .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+21 6 21 --=== New snow accumulation of around an inch possible .
+25 26 30 --=== Snow level 5800 feet lowering to 4300 feet after midnight .
+21 6 21 Chc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== Snow level 2200 feet rising to 3100 feet in the afternoon .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 3 to 5 inches possible .
+21 6 21 Def===Snow .
+21 6 21 Def=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 4 to 8 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Snow level 4300 feet lowering to 3400 feet .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 --=== Snow level 3300 feet rising to 3800 feet .
+21 6 21 --=== New snow accumulation of less than a half inch possible .
+25 26 30 Lkly=== Snow level 5400 feet lowering to 3600 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def=== Snow level 6400 feet lowering to 5100 feet .
+21 17 30 Def=== New snow accumulation of less than a half inch possible .
+22 6 9 Def===Snow ,
+22 6 9 Def=== mainly before 11am .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== New snow accumulation of less than a half inch possible .
+21 17 30 --=== Snow level 4600 feet rising to 5800 feet .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of around an inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5200 feet .
+21 6 21 Lkly=== Snow level 4500 feet .
+21 6 21 Lkly=== Little or no snow accumulation expected .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Lkly===Snow likely .
+21 17 30 Lkly=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+25 26 30 Lkly=== Snow level 5700 feet lowering to 3800 feet after midnight .
+21 17 30 --=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+25 26 30 Lkly=== Snow level 5800 feet lowering to 3900 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of around an inch possible .
+21 6 21 --=== Snow level 2200 feet rising to 3000 feet in the afternoon .
+21 6 21 --=== Little or no snow accumulation expected .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+23 6 13 Def===Flurries before noon .
+21 6 21 Def===Flurries .
+21 17 30 Def===Flurries .
+21 6 21 --=== New snow accumulation of around an inch possible .
+25 26 30 --=== Snow level 5800 feet lowering to 4300 feet after midnight .
+21 6 21 Chc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== Snow level 2200 feet rising to 3100 feet in the afternoon .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 3 to 5 inches possible .
+21 6 21 Def===Snow .
+21 6 21 Def=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 4 to 8 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Snow level 4300 feet lowering to 3400 feet .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 --=== Snow level 3300 feet rising to 3800 feet .
+21 6 21 --=== New snow accumulation of less than a half inch possible .
+25 26 30 Lkly=== Snow level 5400 feet lowering to 3600 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of less than one inch possible .
+21 17 30 Def=== Snow level 6400 feet lowering to 5100 feet .
+21 17 30 Def=== New snow accumulation of less than a half inch possible .
+22 6 9 Def===Snow ,
+22 6 9 Def=== mainly before 11am .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Def===Snow .
+21 17 30 Def=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== New snow accumulation of less than a half inch possible .
+21 17 30 --=== Snow level 4600 feet rising to 5800 feet .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of around an inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5100 feet .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly===Snow likely .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Chc=== New snow accumulation of less than a half inch possible .
+21 6 21 Lkly=== New snow accumulation of less than one inch possible .
+22 17 21 Def===Snow ,
+22 17 21 Def=== mainly before 11pm .
+21 17 30 Lkly=== New snow accumulation of 2 to 4 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+21 17 30 --=== Snow level 6200 feet lowering to 5200 feet .
+21 6 21 Lkly=== Snow level 4500 feet .
+21 6 21 Lkly=== Little or no snow accumulation expected .
+21 17 30 Chc=== Little or no snow accumulation expected .
+21 6 21 Lkly=== New snow accumulation of less than a half inch possible .
+21 17 30 Lkly===Snow likely .
+21 17 30 Lkly=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 Chc=== Little or no snow accumulation expected .
+25 26 30 Lkly=== Snow level 5700 feet lowering to 3800 feet after midnight .
+21 17 30 --=== New snow accumulation of 1 to 2 inches possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+25 26 30 Lkly=== Snow level 5800 feet lowering to 3900 feet after midnight .
+21 17 30 --=== New snow accumulation of less than a half inch possible .
+21 6 21 SChc=== New snow accumulation of 1 to 3 inches possible .
+21 6 21 --=== New snow accumulation of around an inch possible .
+21 6 21 --=== Snow level 2200 feet rising to 3000 feet in the afternoon .
+21 6 21 --=== Little or no snow accumulation expected .

@@ -1,0 +1,110 @@
+10 17 30 38 41 64 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 21 36 48 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 7 13 19 16 17 30 -- 21 17 30 SChc===A 20 percent chance of snow showers .
+10 17 30 38 39 50 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 18 34 50 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 4 10 16 17 17 21 -- 22 17 21 SChc===A 20 percent chance of snow showers before 11pm .
+10 17 30 31 35 60 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 33 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 17 30 31 35 59 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 34 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 6 21 16 27 36 16 6 21 -- 21 6 21 Chc===A 40 percent chance of snow showers .
+10 17 30 38 41 64 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 21 36 48 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 7 13 19 16 17 30 -- 21 17 30 SChc===A 20 percent chance of snow showers .
+10 17 30 38 39 50 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 18 34 50 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 4 10 16 17 17 21 -- 22 17 21 SChc===A 20 percent chance of snow showers before 11pm .
+10 17 30 31 35 60 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 33 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 17 30 31 35 59 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 34 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 6 21 16 27 36 16 6 21 -- 21 6 21 Chc===A 40 percent chance of snow showers .
+10 17 30 38 41 64 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 21 36 48 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 7 13 19 16 17 30 -- 21 17 30 SChc===A 20 percent chance of snow showers .
+10 17 30 38 39 50 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 18 34 50 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 4 10 16 17 17 21 -- 22 17 21 SChc===A 20 percent chance of snow showers before 11pm .
+10 17 30 31 35 60 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 33 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 17 30 31 35 59 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 34 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 6 21 16 27 36 16 6 21 -- 21 6 21 Chc===A 40 percent chance of snow showers .
+10 17 30 38 41 64 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 21 36 48 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 7 13 19 16 17 30 -- 21 17 30 SChc===A 20 percent chance of snow showers .
+10 17 30 38 39 50 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 18 34 50 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 4 10 16 17 17 21 -- 22 17 21 SChc===A 20 percent chance of snow showers before 11pm .
+10 17 30 31 35 60 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 33 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 17 30 31 35 59 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 34 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 6 21 16 27 36 16 6 21 -- 21 6 21 Chc===A 40 percent chance of snow showers .
+10 17 30 38 41 64 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 21 36 48 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 7 13 19 16 17 30 -- 21 17 30 SChc===A 20 percent chance of snow showers .
+10 17 30 38 39 50 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 18 34 50 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 4 10 16 17 17 21 -- 22 17 21 SChc===A 20 percent chance of snow showers before 11pm .
+10 17 30 31 35 60 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 33 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 17 30 31 35 59 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 34 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 6 21 16 27 36 16 6 21 -- 21 6 21 Chc===A 40 percent chance of snow showers .
+10 17 30 38 41 64 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 21 36 48 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 7 13 19 16 17 30 -- 21 17 30 SChc===A 20 percent chance of snow showers .
+10 17 30 38 39 50 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 18 34 50 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 4 10 16 17 17 21 -- 22 17 21 SChc===A 20 percent chance of snow showers before 11pm .
+10 17 30 31 35 60 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 33 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 17 30 31 35 59 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 34 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 6 21 16 27 36 16 6 21 -- 21 6 21 Chc===A 40 percent chance of snow showers .
+10 17 30 38 41 64 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 21 36 48 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 7 13 19 16 17 30 -- 21 17 30 SChc===A 20 percent chance of snow showers .
+10 17 30 38 39 50 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 18 34 50 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 4 10 16 17 17 21 -- 22 17 21 SChc===A 20 percent chance of snow showers before 11pm .
+10 17 30 31 35 60 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 33 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 17 30 31 35 59 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 34 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 6 21 16 27 36 16 6 21 -- 21 6 21 Chc===A 40 percent chance of snow showers .
+10 17 30 38 41 64 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 21 36 48 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 7 13 19 16 17 30 -- 21 17 30 SChc===A 20 percent chance of snow showers .
+10 17 30 38 39 50 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 18 34 50 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 4 10 16 17 17 21 -- 22 17 21 SChc===A 20 percent chance of snow showers before 11pm .
+10 17 30 31 35 60 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 33 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 17 30 31 35 59 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 34 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 6 21 16 27 36 16 6 21 -- 21 6 21 Chc===A 40 percent chance of snow showers .
+10 17 30 38 41 64 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 21 36 48 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 7 13 19 16 17 30 -- 21 17 30 SChc===A 20 percent chance of snow showers .
+10 17 30 38 39 50 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 18 34 50 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 4 10 16 17 17 21 -- 22 17 21 SChc===A 20 percent chance of snow showers before 11pm .
+10 17 30 31 35 60 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 33 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 17 30 31 35 59 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 34 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 6 21 16 27 36 16 6 21 -- 21 6 21 Chc===A 40 percent chance of snow showers .
+10 17 30 38 41 64 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 21 36 48 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 7 13 19 16 17 30 -- 21 17 30 SChc===A 20 percent chance of snow showers .
+10 17 30 38 39 50 16 17 30 -- 21 17 30 Chc===A 40 percent chance of snow showers .
+10 6 21 18 34 50 16 6 21 -- 21 6 21 Chc===A 50 percent chance of snow showers .
+10 17 30 4 10 16 17 17 21 -- 22 17 21 SChc===A 20 percent chance of snow showers before 11pm .
+10 17 30 31 35 60 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 33 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 17 30 31 35 59 16 17 30 -- 21 17 30 Chc===A 30 percent chance of snow showers .
+10 6 21 9 23 34 16 6 21 -- 21 6 21 Chc===A 30 percent chance of snow showers .
+10 6 21 16 27 36 16 6 21 -- 21 6 21 Chc===A 40 percent chance of snow showers .

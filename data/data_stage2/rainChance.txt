@@ -1,0 +1,3910 @@
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Rain showers likely before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+19 21 30 Chc===Scattered rain showers ,
+19 21 30 Chc=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly=== then a chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+17 17 21 Lkly===Rain showers likely before 11pm ,
+16 6 21 --=== then a slight chance of rain showers .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 6 21 Chc===A chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Chc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Def=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+19 9 21 Def===Rain ,
+19 9 21 Def=== mainly after 10am .
+16 17 30 Def===Showers ,
+16 6 21 Def===Rain .
+16 17 30 Def===Showers ,
+17 17 21 Lkly===Rain likely before 6pm ,
+19 21 30 Def=== then showers ,
+19 21 30 Def=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+17 17 21 Lkly===Showers likely before 10pm .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+17 17 21 Def===Rain before 6pm ,
+16 17 30 Def=== then showers .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Chc===Scattered showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Rain showers likely before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+19 21 30 Chc===Scattered rain showers ,
+19 21 30 Chc=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly=== then a chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+17 17 21 Lkly===Rain showers likely before 11pm ,
+16 6 21 --=== then a slight chance of rain showers .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 6 21 Chc===A chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Chc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Def=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+19 9 21 Def===Rain ,
+19 9 21 Def=== mainly after 10am .
+16 17 30 Def===Showers ,
+16 6 21 Def===Rain .
+16 17 30 Def===Showers ,
+17 17 21 Lkly===Rain likely before 6pm ,
+19 21 30 Def=== then showers ,
+19 21 30 Def=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+17 17 21 Lkly===Showers likely before 10pm .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+17 17 21 Def===Rain before 6pm ,
+16 17 30 Def=== then showers .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Chc===Scattered showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Rain showers likely before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+19 21 30 Chc===Scattered rain showers ,
+19 21 30 Chc=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly=== then a chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+17 17 21 Lkly===Rain showers likely before 11pm ,
+16 6 21 --=== then a slight chance of rain showers .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 6 21 Chc===A chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Chc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Def=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+19 9 21 Def===Rain ,
+19 9 21 Def=== mainly after 10am .
+16 17 30 Def===Showers ,
+16 6 21 Def===Rain .
+16 17 30 Def===Showers ,
+17 17 21 Lkly===Rain likely before 6pm ,
+19 21 30 Def=== then showers ,
+19 21 30 Def=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+17 17 21 Lkly===Showers likely before 10pm .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+17 17 21 Def===Rain before 6pm ,
+16 17 30 Def=== then showers .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Chc===Scattered showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Rain showers likely before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+19 21 30 Chc===Scattered rain showers ,
+19 21 30 Chc=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly=== then a chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+17 17 21 Lkly===Rain showers likely before 11pm ,
+16 6 21 --=== then a slight chance of rain showers .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 6 21 Chc===A chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Chc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Def=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+19 9 21 Def===Rain ,
+19 9 21 Def=== mainly after 10am .
+16 17 30 Def===Showers ,
+16 6 21 Def===Rain .
+16 17 30 Def===Showers ,
+17 17 21 Lkly===Rain likely before 6pm ,
+19 21 30 Def=== then showers ,
+19 21 30 Def=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+17 17 21 Lkly===Showers likely before 10pm .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+17 17 21 Def===Rain before 6pm ,
+16 17 30 Def=== then showers .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Chc===Scattered showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Rain showers likely before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+19 21 30 Chc===Scattered rain showers ,
+19 21 30 Chc=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly=== then a chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+17 17 21 Lkly===Rain showers likely before 11pm ,
+16 6 21 --=== then a slight chance of rain showers .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 6 21 Chc===A chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Chc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Def=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+19 9 21 Def===Rain ,
+19 9 21 Def=== mainly after 10am .
+16 17 30 Def===Showers ,
+16 6 21 Def===Rain .
+16 17 30 Def===Showers ,
+17 17 21 Lkly===Rain likely before 6pm ,
+19 21 30 Def=== then showers ,
+19 21 30 Def=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+17 17 21 Lkly===Showers likely before 10pm .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+17 17 21 Def===Rain before 6pm ,
+16 17 30 Def=== then showers .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Chc===Scattered showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Rain showers likely before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+19 21 30 Chc===Scattered rain showers ,
+19 21 30 Chc=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly=== then a chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+17 17 21 Lkly===Rain showers likely before 11pm ,
+16 6 21 --=== then a slight chance of rain showers .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 6 21 Chc===A chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Chc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Def=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+19 9 21 Def===Rain ,
+19 9 21 Def=== mainly after 10am .
+16 17 30 Def===Showers ,
+16 6 21 Def===Rain .
+16 17 30 Def===Showers ,
+17 17 21 Lkly===Rain likely before 6pm ,
+19 21 30 Def=== then showers ,
+19 21 30 Def=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+17 17 21 Lkly===Showers likely before 10pm .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+17 17 21 Def===Rain before 6pm ,
+16 17 30 Def=== then showers .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Chc===Scattered showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Rain showers likely before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+19 21 30 Chc===Scattered rain showers ,
+19 21 30 Chc=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly=== then a chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+17 17 21 Lkly===Rain showers likely before 11pm ,
+16 6 21 --=== then a slight chance of rain showers .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 6 21 Chc===A chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Chc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Def=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+19 9 21 Def===Rain ,
+19 9 21 Def=== mainly after 10am .
+16 17 30 Def===Showers ,
+16 6 21 Def===Rain .
+16 17 30 Def===Showers ,
+17 17 21 Lkly===Rain likely before 6pm ,
+19 21 30 Def=== then showers ,
+19 21 30 Def=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+17 17 21 Lkly===Showers likely before 10pm .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+17 17 21 Def===Rain before 6pm ,
+16 17 30 Def=== then showers .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Chc===Scattered showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Rain showers likely before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+19 21 30 Chc===Scattered rain showers ,
+19 21 30 Chc=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly=== then a chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+17 17 21 Lkly===Rain showers likely before 11pm ,
+16 6 21 --=== then a slight chance of rain showers .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 6 21 Chc===A chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Chc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Def=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+19 9 21 Def===Rain ,
+19 9 21 Def=== mainly after 10am .
+16 17 30 Def===Showers ,
+16 6 21 Def===Rain .
+16 17 30 Def===Showers ,
+17 17 21 Lkly===Rain likely before 6pm ,
+19 21 30 Def=== then showers ,
+19 21 30 Def=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+17 17 21 Lkly===Showers likely before 10pm .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+17 17 21 Def===Rain before 6pm ,
+16 17 30 Def=== then showers .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Chc===Scattered showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Rain showers likely before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+19 21 30 Chc===Scattered rain showers ,
+19 21 30 Chc=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly=== then a chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+17 17 21 Lkly===Rain showers likely before 11pm ,
+16 6 21 --=== then a slight chance of rain showers .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 6 21 Chc===A chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Chc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Def=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+19 9 21 Def===Rain ,
+19 9 21 Def=== mainly after 10am .
+16 17 30 Def===Showers ,
+16 6 21 Def===Rain .
+16 17 30 Def===Showers ,
+17 17 21 Lkly===Rain likely before 6pm ,
+19 21 30 Def=== then showers ,
+19 21 30 Def=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+17 17 21 Lkly===Showers likely before 10pm .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+17 17 21 Def===Rain before 6pm ,
+16 17 30 Def=== then showers .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Chc===Scattered showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Rain showers likely before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+19 21 30 Chc===Scattered rain showers ,
+19 21 30 Chc=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Def===Showers ,
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly=== then a chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+19 9 21 Chc===Showers likely ,
+19 9 21 Chc=== mainly after 11am .
+17 17 21 Lkly===Rain showers likely before 11pm ,
+16 6 21 --=== then a slight chance of rain showers .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 Chc===Scattered showers ,
+17 6 9 Chc=== mainly before 11am .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 6 21 Chc===A chance of showers .
+16 17 30 Def===Showers ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 Def===Rain before 11pm ,
+17 17 21 Def===Rain before 11pm ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 17 30 Def===Showers .
+18 17 26 SChc===Rain showers likely before 2am ,
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+16 6 21 Lkly===Showers likely ,
+18 17 26 SChc===Rain showers likely before 2am ,
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Def===Showers ,
+19 21 30 Def=== mainly after 11pm .
+20 13 21 --=== then a slight chance of rain showers after 2pm .
+16 17 30 Lkly===Showers likely .
+16 17 30 Def===Showers .
+19 21 30 Lkly===Showers likely ,
+19 21 30 Lkly=== mainly after 11pm .
+17 6 9 --===Scattered rain showers before 8am ,
+19 9 21 --=== then a slight chance of rain showers after 11am .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Chc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Def=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Def=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch ,
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 Chc=== then a chance of showers .
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc===A slight chance of sprinkles .
+16 6 21 SChc===A slight chance of sprinkles .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between three quarters and one inch possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Chc=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Chc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 SChc=== New rainfall amounts of less than a tenth of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 SChc=== then a slight chance of showers .
+16 6 21 SChc=== New rainfall amounts between a tenth and quarter of an inch ,
+16 6 21 Lkly=== New rainfall amounts between a half and three quarters of an inch possible .
+16 6 21 SChc=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between one and two inches possible .
+16 6 21 --=== New rainfall amounts of less than a tenth of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 Lkly=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Def=== New rainfall amounts between a quarter and half of an inch possible .
+16 6 21 --=== New rainfall amounts between a quarter and half of an inch possible .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+19 9 21 Def===Rain ,
+19 9 21 Def=== mainly after 10am .
+16 17 30 Def===Showers ,
+16 6 21 Def===Rain .
+16 17 30 Def===Showers ,
+17 17 21 Lkly===Rain likely before 6pm ,
+19 21 30 Def=== then showers ,
+19 21 30 Def=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+17 17 21 Lkly===Showers likely before 10pm .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+17 17 21 Def===Rain before 6pm ,
+16 17 30 Def=== then showers .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Rain likely .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Chc===Scattered showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Def===Rain .
+16 6 21 Lkly===Showers likely .
+16 17 30 Def===Rain .
+16 6 21 Def===Showers .
+16 17 30 Lkly===Showers likely .
+17 17 21 SChc===A slight chance of rain before 6pm ,
+19 21 30 Lkly=== then showers likely ,
+19 21 30 Lkly=== mainly after 10pm .
+16 6 21 Lkly===Rain likely .
+16 6 21 Lkly===Showers likely .
+17 17 21 Lkly===Showers likely ,
+17 17 21 Lkly=== mainly before 10pm .

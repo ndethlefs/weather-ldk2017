@@ -1,0 +1,330 @@
+16 6 21 -- 21 6 21 --=== then snow showers likely between 8am and 11am ,
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 17 30 -- 21 17 30 Chc=== then a chance of snow showers .
+17 6 9 -- 22 6 9 Chc===A chance of snow showers before 11am ,
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 17 30 Def 21 17 30 Def=== then rain and snow .
+19 9 21 -- 24 9 21 Lkly===Snow showers likely ,
+19 9 21 -- 24 9 21 Lkly=== mainly after 11am .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 6 21 Lkly 21 6 21 Lkly===Rain and snow likely .
+16 17 30 Chc 21 17 30 Chc===A chance of rain and snow showers .
+19 9 21 Lkly 24 9 21 Lkly===Rain and snow showers likely ,
+19 9 21 Lkly 24 9 21 Lkly=== mainly after 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 --=== then snow showers likely between 8am and 11am ,
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 17 30 -- 21 17 30 Chc=== then a chance of snow showers .
+17 6 9 -- 22 6 9 Chc===A chance of snow showers before 11am ,
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 17 30 Def 21 17 30 Def=== then rain and snow .
+19 9 21 -- 24 9 21 Lkly===Snow showers likely ,
+19 9 21 -- 24 9 21 Lkly=== mainly after 11am .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 6 21 Lkly 21 6 21 Lkly===Rain and snow likely .
+16 17 30 Chc 21 17 30 Chc===A chance of rain and snow showers .
+19 9 21 Lkly 24 9 21 Lkly===Rain and snow showers likely ,
+19 9 21 Lkly 24 9 21 Lkly=== mainly after 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 --=== then snow showers likely between 8am and 11am ,
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 17 30 -- 21 17 30 Chc=== then a chance of snow showers .
+17 6 9 -- 22 6 9 Chc===A chance of snow showers before 11am ,
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 17 30 Def 21 17 30 Def=== then rain and snow .
+19 9 21 -- 24 9 21 Lkly===Snow showers likely ,
+19 9 21 -- 24 9 21 Lkly=== mainly after 11am .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 6 21 Lkly 21 6 21 Lkly===Rain and snow likely .
+16 17 30 Chc 21 17 30 Chc===A chance of rain and snow showers .
+19 9 21 Lkly 24 9 21 Lkly===Rain and snow showers likely ,
+19 9 21 Lkly 24 9 21 Lkly=== mainly after 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 --=== then snow showers likely between 8am and 11am ,
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 17 30 -- 21 17 30 Chc=== then a chance of snow showers .
+17 6 9 -- 22 6 9 Chc===A chance of snow showers before 11am ,
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 17 30 Def 21 17 30 Def=== then rain and snow .
+19 9 21 -- 24 9 21 Lkly===Snow showers likely ,
+19 9 21 -- 24 9 21 Lkly=== mainly after 11am .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 6 21 Lkly 21 6 21 Lkly===Rain and snow likely .
+16 17 30 Chc 21 17 30 Chc===A chance of rain and snow showers .
+19 9 21 Lkly 24 9 21 Lkly===Rain and snow showers likely ,
+19 9 21 Lkly 24 9 21 Lkly=== mainly after 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 --=== then snow showers likely between 8am and 11am ,
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 17 30 -- 21 17 30 Chc=== then a chance of snow showers .
+17 6 9 -- 22 6 9 Chc===A chance of snow showers before 11am ,
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 17 30 Def 21 17 30 Def=== then rain and snow .
+19 9 21 -- 24 9 21 Lkly===Snow showers likely ,
+19 9 21 -- 24 9 21 Lkly=== mainly after 11am .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 6 21 Lkly 21 6 21 Lkly===Rain and snow likely .
+16 17 30 Chc 21 17 30 Chc===A chance of rain and snow showers .
+19 9 21 Lkly 24 9 21 Lkly===Rain and snow showers likely ,
+19 9 21 Lkly 24 9 21 Lkly=== mainly after 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 --=== then snow showers likely between 8am and 11am ,
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 17 30 -- 21 17 30 Chc=== then a chance of snow showers .
+17 6 9 -- 22 6 9 Chc===A chance of snow showers before 11am ,
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 17 30 Def 21 17 30 Def=== then rain and snow .
+19 9 21 -- 24 9 21 Lkly===Snow showers likely ,
+19 9 21 -- 24 9 21 Lkly=== mainly after 11am .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 6 21 Lkly 21 6 21 Lkly===Rain and snow likely .
+16 17 30 Chc 21 17 30 Chc===A chance of rain and snow showers .
+19 9 21 Lkly 24 9 21 Lkly===Rain and snow showers likely ,
+19 9 21 Lkly 24 9 21 Lkly=== mainly after 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 --=== then snow showers likely between 8am and 11am ,
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 17 30 -- 21 17 30 Chc=== then a chance of snow showers .
+17 6 9 -- 22 6 9 Chc===A chance of snow showers before 11am ,
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 17 30 Def 21 17 30 Def=== then rain and snow .
+19 9 21 -- 24 9 21 Lkly===Snow showers likely ,
+19 9 21 -- 24 9 21 Lkly=== mainly after 11am .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 6 21 Lkly 21 6 21 Lkly===Rain and snow likely .
+16 17 30 Chc 21 17 30 Chc===A chance of rain and snow showers .
+19 9 21 Lkly 24 9 21 Lkly===Rain and snow showers likely ,
+19 9 21 Lkly 24 9 21 Lkly=== mainly after 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 --=== then snow showers likely between 8am and 11am ,
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 17 30 -- 21 17 30 Chc=== then a chance of snow showers .
+17 6 9 -- 22 6 9 Chc===A chance of snow showers before 11am ,
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 17 30 Def 21 17 30 Def=== then rain and snow .
+19 9 21 -- 24 9 21 Lkly===Snow showers likely ,
+19 9 21 -- 24 9 21 Lkly=== mainly after 11am .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 6 21 Lkly 21 6 21 Lkly===Rain and snow likely .
+16 17 30 Chc 21 17 30 Chc===A chance of rain and snow showers .
+19 9 21 Lkly 24 9 21 Lkly===Rain and snow showers likely ,
+19 9 21 Lkly 24 9 21 Lkly=== mainly after 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 --=== then snow showers likely between 8am and 11am ,
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 17 30 -- 21 17 30 Chc=== then a chance of snow showers .
+17 6 9 -- 22 6 9 Chc===A chance of snow showers before 11am ,
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 17 30 Def 21 17 30 Def=== then rain and snow .
+19 9 21 -- 24 9 21 Lkly===Snow showers likely ,
+19 9 21 -- 24 9 21 Lkly=== mainly after 11am .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 6 21 Lkly 21 6 21 Lkly===Rain and snow likely .
+16 17 30 Chc 21 17 30 Chc===A chance of rain and snow showers .
+19 9 21 Lkly 24 9 21 Lkly===Rain and snow showers likely ,
+19 9 21 Lkly 24 9 21 Lkly=== mainly after 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 --=== then snow showers likely between 8am and 11am ,
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 17 30 -- 21 17 30 Chc=== then a chance of snow showers .
+17 6 9 -- 22 6 9 Chc===A chance of snow showers before 11am ,
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Lkly===Snow showers likely ,
+17 6 9 -- 22 6 9 Lkly=== mainly before 11am .
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
+16 17 30 Def 21 17 30 Def=== then rain and snow .
+19 9 21 -- 24 9 21 Lkly===Snow showers likely ,
+19 9 21 -- 24 9 21 Lkly=== mainly after 11am .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 17 30 Def 21 17 30 --=== then rain and snow .
+16 6 21 -- 21 6 21 Lkly===Snow showers likely .
+16 6 21 Lkly 21 6 21 Lkly===Rain and snow likely .
+16 17 30 Chc 21 17 30 Chc===A chance of rain and snow showers .
+19 9 21 Lkly 24 9 21 Lkly===Rain and snow showers likely ,
+19 9 21 Lkly 24 9 21 Lkly=== mainly after 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+16 17 30 SChc 21 17 30 --=== then snow showers likely .
+17 6 9 -- 22 6 9 Chc===Scattered snow showers ,
+17 6 9 -- 22 6 9 Chc=== mainly before 11am .
+17 6 9 -- 22 6 9 --===Rain and snow showers likely before 11am ,
+16 6 21 -- 21 6 21 --=== then a slight chance of snow showers between 11am and 2pm ,
+16 6 21 -- 21 6 21 --=== then scattered snow showers between 8am and 11am ,
