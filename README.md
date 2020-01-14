@@ -25,12 +25,24 @@ into wind, rain, clouds, etc.
 
 <img src="/img/weather-hierarchy.png" alt="drawing" width="500"/>
 
-stage1-content.py trains the content selection component to decide which weather events to mention and which not. 
+# Code and Data
 
-stage2-sequence.py orders the chosen events (from stage 1) into the sequence in which they should be presented.
+We're using the dataset of Liang et al 2009: http://cs.stanford.edu/~pliang/papers/weather-data.zip
 
-stage3-forecast.py uses the output of stage 2 and generates a text-based weather forecast.
+The code comes with four scripts:
 
-Using the dataset of Liang et al 2009: http://cs.stanford.edu/~pliang/papers/weather-data.zip
+<code>stage1-content.py</code> trains the content selection component to decide which weather events to mention and which not. 
 
-test_weather_output.py uses pre-trained weights and output files to generate forecasts for a small number of states (because it takes long to load).
+<code>stage2-sequence.py</code> orders the chosen events (from stage 1) into the sequence in which they should be presented.
+
+<code>stage3-forecast.py</code> uses the output of stage 2 and generates a text-based weather forecast.
+
+These could be combined into the same process but were designed separately here.
+
+Finally, to test the trained models:
+
+<code>test_weather_output.py</code> uses pre-trained weights (that get saved during training) 
+and output files to generate forecasts for a small number of states. Again, this could be extended but was kept
+as a small demonstration here due to the time it takes to load in all the data.
+
+
