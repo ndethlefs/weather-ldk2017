@@ -17,13 +17,13 @@ training. Results from a proof-of-concept study show 73% times faster learning o
 In the paper, we work with a hand-crafted hierarchy looking separately into traditional NLG tasks content selection, 
 microplanning and surface realisation.
 
-<img src="/img/hierarchy.png" alt="drawing" width="500"/>
+<img src="/img/hierarchy.png" alt="drawing" width="700"/>
 
 
 We further decompose domain-specific tasks (in this paper we're using weather forecast generation as an example), e.g. 
 into wind, rain, clouds, etc.
 
-<img src="/img/weather-hierarchy.png" alt="drawing" width="500"/>
+<img src="/img/weather-hierarchy.png" alt="drawing" width="700"/>
 
 # Code and Data
 
