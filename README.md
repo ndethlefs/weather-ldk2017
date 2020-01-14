@@ -25,6 +25,8 @@ into wind, rain, clouds, etc.
 
 <img src="/img/weather-hierarchy.png" alt="drawing" width="700"/>
 
+All hierarchies are hand-crafted in this paper (or obtained via heuristics). This process could be automated. Please see https://github.com/ndethlefs/kgen2 for an example of this in a different domain.
+
 # Code and Data
 
 We're using the dataset of Liang et al 2009: http://cs.stanford.edu/~pliang/papers/weather-data.zip
